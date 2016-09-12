@@ -1,6 +1,6 @@
 {
   "name": "katello-crane",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": "Katello",
   "summary": "Configure and install Crane on a Pulp server or node.",
   "license": "GPL-3.0+",
